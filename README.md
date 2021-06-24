@@ -13,3 +13,7 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 4. Click en Nueva Organización 
 5. Elegir plan 
 6. Llenar datos
+
+## Creación del Fork
+
+Para crear un fork, ve a la URL del proyecto original y pícale en Fork 
