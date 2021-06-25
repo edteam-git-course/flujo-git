@@ -17,3 +17,11 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 ## Creación del Fork
 
 Para crear un fork, ve a la URL del proyecto original y pícale en Fork 
+
+## Como trabajr con 2 o más remotos
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos 
+`git remote add NombreRepoOriginal  URLRepoOriginal`
