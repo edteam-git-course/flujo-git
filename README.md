@@ -18,10 +18,16 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 
 Para crear un fork, ve a la URL del proyecto original y pícale en Fork 
 
-## Como trabajr con 2 o más remotos
+## Como trabajar con 2 o más remotos
 
 Listar remotos
 `git remote -v`
 
 Agregar remotos 
 `git remote add NombreRepoOriginal  URLRepoOriginal`
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas o releases solo deben ser creadas a partir de la rama master como buenas práctica.
+
+Para entender como llamar o categorizar tus versiones, te recomendamos un artículo en nuestro blog
